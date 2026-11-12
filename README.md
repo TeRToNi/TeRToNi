@@ -16,11 +16,9 @@ I work with Python and Java, and I am drawn to questions where a useful model mu
 
 ![Open science: knowledge grows when its foundations remain open to examination.](assets/open-science.svg)
 
-> I want to contribute work that others can examine, improve, and build upon—and to grow by learning from what they share in return.
+> Knowledge belongs to the future as much as to those who discover it.
 
-Science is cumulative: a result becomes a foundation when others can understand the assumptions and methods beneath it. Openness, to me, is therefore more than releasing code. It is a way to invite independent examination and make scientific reproducibility possible. That aspiration has practical limits and requires care; it is not a claim that every project is already open or reproducible.
-
-Mathematics gives an investigation structure; computation lets us explore its consequences. I want to share ideas, methods, and tools in ways that help others use and improve them. Just as importantly, I want to learn from the work others make available, question my own assumptions, and improve my contributions in return. In that exchange, research can grow beyond any one person, with criticism and collaboration becoming part of discovery.
+I see science as a conversation across generations: each idea takes shape through the work that came before it and finds new meaning in the hands of others. I want to share my reasoning and tools so they can be questioned, used, and improved, while learning from the work others offer in return. Mathematics gives this exchange a language, computation lets us explore its possibilities, and openness helps knowledge remain alive to revision.
 
 <br>
 

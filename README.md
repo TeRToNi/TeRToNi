@@ -6,9 +6,9 @@
 
 ## About
 
-I am a student at Letovo School interested in how mathematics and computation can help us understand physical systems. My focus is on scientific machine learning: in particular, learning operators between function spaces and studying how their behavior changes across scales and spatial discretizations.
+I am a student at Letovo School interested in mathematics, physics, and scientific machine learning. I am especially curious about neural operators and how they learn relationships between functions across different scales and spatial discretizations.
 
-I work with Python and Java, and I am drawn to questions where a useful model must be understood as well as computed.
+I work with Python and Java. My favorite book is *Fluid Mechanics*, Volume 6 of Landau and Lifshitz’s *Course of Theoretical Physics*.
 
 <br>
 
@@ -16,28 +16,26 @@ I work with Python and Java, and I am drawn to questions where a useful model mu
 
 ![Open science: knowledge grows when its foundations remain open to examination.](assets/open-science.svg)
 
-> Knowledge belongs to the future as much as to those who discover it.
+> “If I have seen further, it is by standing on the shoulders of giants.”
+>
+> — Isaac Newton
 
-I see science as a conversation across generations: each idea takes shape through the work that came before it and finds new meaning in the hands of others. I want to share my reasoning and tools so they can be questioned, used, and improved, while learning from the work others offer in return. Mathematics gives this exchange a language, computation lets us explore its possibilities, and openness helps knowledge remain alive to revision.
+I hope to add, however modestly, to this growing ocean of knowledge: to learn from those who came before me, share what I find, and leave something for others to carry further.
 
 <br>
 
 ## Research interests
 
-**Learning operators**  ·  Neural operators  /  Scientific machine learning  /  Numerical generalization
+**Methods**  ·  Neural operators  /  Scientific machine learning  /  Multiscale methods
 
-**Understanding physical systems**  ·  Physics  /  Partial differential equations  /  Numerical stability
+**Mathematics and physics**  ·  Partial differential equations  /  Fourier and wavelet representations
 
-**Working across scales**  ·  Multiscale methods  /  Fourier and wavelet representations  /  Cross-resolution transfer
-
-<br>
-
-*Mathematics frames the question; computation explores it; shared inquiry deepens understanding.*
+**Questions**  ·  Numerical stability  /  Generalization  /  Cross-resolution transfer
 
 <br>
 
 ## Research projects
 
-**01 — WFNO / Coupled** · Ongoing research into coupling Fourier and wavelet representations in neural operators, with an interest in accuracy, stability, and generalization across spatial discretizations.
+**01 — WFNO / Coupled** · Ongoing research on combining Fourier and wavelet representations in neural operators, with a focus on accuracy, stability, and generalization across spatial discretizations.
 
-**02 — PDE Lab** · A research-oriented application for visualizing partial differential equation solutions and comparing model predictions and errors.
+**02 — PDE Lab** · An application for visualizing solutions to partial differential equations and comparing model predictions and errors.

@@ -12,34 +12,6 @@ I work with Python and Java, and I am drawn to questions where a useful model mu
 
 <br>
 
-## Research projects
-
-### 01 — WFNO / Coupled
-
-**Fourier–wavelet neural operators · ongoing research**
-
-This project explores how Fourier-based and wavelet-based representations might interact within a neural operator. Fourier representations provide a way to describe global structure, while wavelets offer localized representations at multiple scales. The question is how information exchange between coarse-scale features and fine details might support the learning of operators on functions.
-
-The directions of inquiry include accuracy, numerical stability under varying conditions, and generalization across spatial discretizations, including cross-resolution transfer. These are research questions, not claims of established results.
-
-![Conceptual diagram: an input field branches into Fourier and wavelet representations, whose features exchange information before producing a learned operator output.](assets/wfno-diagram.svg)
-
-<sub>Figure 01. Conceptual illustration; it is neither an exact implementation diagram nor an experimental result.</sub>
-
-<br>
-
-### 02 — PDE Lab
-
-**Partial differential equations · visualization and model comparison**
-
-PDE Lab is a research-oriented application for visualizing solutions to partial differential equations and comparing prediction errors across computational models. It is designed around a practical question: what can the structure of a numerical prediction—and of its error—tell us about a model's behavior?
-
-![Three illustrative fields: a reference solution, a model prediction, and their signed difference.](assets/pde-lab.svg)
-
-<sub>Figure 02. Schematic fields, not measurements. The first two panels share a color scale; the signed residual uses a separate scale.</sub>
-
-<br>
-
 ## Open science mission
 
 ![Open science: knowledge grows when its foundations remain open to examination.](assets/open-science.svg)
@@ -63,3 +35,11 @@ Mathematics gives an investigation structure; computation lets us explore its co
 <br>
 
 *Mathematics frames the question; computation explores it; shared inquiry deepens understanding.*
+
+<br>
+
+## Research projects
+
+**01 — WFNO / Coupled** · Ongoing research into coupling Fourier and wavelet representations in neural operators, with an interest in accuracy, stability, and generalization across spatial discretizations.
+
+**02 — PDE Lab** · A research-oriented application for visualizing partial differential equation solutions and comparing model predictions and errors.

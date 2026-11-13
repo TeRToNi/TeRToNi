@@ -1,4 +1,4 @@
-I am a student at Letovo School interested in mathematics, physics, and scientific machine learning. I am particularly interested in using machine learning to study and solve partial differential equations.
+I am a student at Letovo interested in mathematics, physics, and scientific machine learning. I am particularly interested in using machine learning to study and solve partial differential equations.
 
 My interests lie in the interaction between mathematical models and computation: how a model represents structure at different scales, how its predictions change with spatial discretization, and what its errors can tell us. I work with Python and Java. My favorite book is *Fluid Mechanics*, Volume 6 of Landau and Lifshitz's *Course of Theoretical Physics*.
 
